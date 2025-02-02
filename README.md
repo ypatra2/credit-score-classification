@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains a machine learning pipeline for credit score classification using the Kedro framework. It includes data preprocessing, model training with `RandomForestClassifier`, and evaluation steps. The project adheres to best practices in software development and data science for modularity and maintainability.
+This repository contains a machine learning pipeline for credit score classification using the Kedro framework. It includes data preprocessing, model training with `RandomForestClassifier`, and model evaluation. The project adheres to best practices in software development and data science for modularity and maintainability.
 
 ## Rules and Guidelines
 
